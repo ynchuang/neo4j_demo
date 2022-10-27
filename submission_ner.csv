@@ -1,0 +1,401 @@
+index,source,r,target
+33436035,clinical utility of CSF AD biomarkers,in,β-amyloid (Aβ) positron emission tomography (PET) status
+33436035,MCI,in,CSF biomarkers (cutoffs of 642.1 pg/mL for Aβ42 0.060 for Aβ42/Aβ40 0.315 for t-tau/Aβ42 and 0.051 for p-tau/Aβ42 respectively)
+35061102,both beta-amyloid (Aβ),in,large cohort of MCI subjects
+35061102,both beta-amyloid (Aβ),in,AD pathogenesis
+35061102,ApoE4,in,large cohort of MCI subjects
+35061102,ApoE4,in,AD pathogenesis
+35061102,CSF Aβ42 total tau (t-tau),in,large cohort of MCI subjects
+35061102,both CSF amyloid-β burden and tau aggregation,in,AD pathogenesis
+35061102,ApoE4,with,CSF Aβ42 total tau (t-tau)
+35061102,ApoE4,with,tau181 (p-tau)
+35061102,MCI,progressing to,other dementias
+35061102,other dementias,from,German Dementia Competence Network
+35061102,total sample ApoE4 carriers,had,lower concentrations of CSF Aβ42
+35061102,lower concentrations of CSF Aβ42,increased concentrations of t-tau,p-tau
+35061102,ApoE4,having decreased,CSF Aβ 42 levels
+35061102,CSF Aβ 42 levels,increased concentration of t-tau,p-tau
+31834392,tau biomarkers,in,mild cognitive impairment (MCI)
+31834392,tau biomarkers,in,Alzheimer disease (AD)
+31834392,Levels of β-amyloid 1-42 (Aβ1-42) tau,phosphorylated,tau 181
+31834392,Levels of β-amyloid 1-42 (Aβ1-42) tau,phosphorylated,(pTau181) ratio of tau
+31834392,Levels of β-amyloid 1-42 (Aβ1-42) tau,phosphorylated,pTau181
+31834392,pTau181,to,Aβ1-42 ratio
+24132375,CSF β-amyloid 1-42 (Aβ1-42) total tau (t-tau),phosphorylated,tau (p-tau)
+30611311,(Aβ) 1,in,144 MCI subjects
+30611311,Aβ42/40 Tau,in,144 MCI subjects
+30611311,pTau181,in,144 MCI subjects
+30611311,MCI stage of AD,in,144 MCI subjects
+30611311,MCI patients,in,144 MCI subjects
+30611311,improbable AD (ES = 1),to,probable AD (ES = 4)
+30611311,possible AD (ES = 2 or 3),to,probable AD (ES = 4)
+30611311,mild cognitive impairment (MCI) stage of AD,to,dementia stage of disease
+30611311,mild cognitive impairment (MCI) stage of AD,to,Alzheimer's disease dementia (ADD)
+35925685,CSF Aβ42,in,APOE ɛ4 non-carriers
+35925685,Tau,in,APOE ɛ4 non-carriers
+35925685,pTau181 (with decrease),in,APOE ɛ4 non-carriers
+35925685,Aβ42 and Aβ42/Aβ40 ratio,in,APOE ɛ4 non-carriers
+35925685,CSF amyloid-β42 (Aβ42),phosphorylated,(pTau181)
+35925685,Aβ40 total tau (Tau),phosphorylated,(pTau181)
+35925685,CSF Aβ42,for,Tau
+35925685,CSF Aβ42,for,pTau181 (with decrease)
+30419087,CSF NfL,were associated with,risk of MCI
+30419087,Ng levels,were associated with,risk of MCI
+30419087,risk of MCI,compared with,CSF T-tau
+30419087,risk of MCI,compared with,P-tau
+30419087,CSF T-tau,for,risk of MCI
+30419087,P-tau,for,risk of MCI
+30419087,risk of MCI,whether,CSF amyloid-β (Aβ42)
+30419087,CSF,with,risk of MCI
+30419087,Ng Aβ42 T-tau,with,risk of MCI
+30419087,P-tau,with,risk of MCI
+30419087,Neither CSF T-tau P-tau,was associated with,risk of MCI
+30419087,Ng,was associated with,risk of MCI
+30419087,CSF Aβ42,for,risk of MCI
+30419087,CSF NfL,for,risk of MCI
+36216455,neuromyelitis optica spectrum disorder (NMOSD),to relapsing-remitting multiple sclerosis,(RRMS)
+36216455,NMOSD (5.4±8.2 years),with,RRMS
+26590657,Neuromyelitis optica spectrum disorder (NMOSD),differs from,multiple sclerosis (MS)
+26590657,NMOSD,from,MS
+26590657,NMOSD,with relapsing-remitting MS,(RRMS)
+26590657,NMOSD,from,RRMS patients
+32740781,Multiple sclerosis (MS),in,MS
+32740781,Multiple sclerosis (MS),in,NMOSD patients
+32740781,Neuromyelitis optica spectrum disorder (NMOSD),in,NMOSD patients
+32740781,MS,in,NMOSD patients
+32740781,Anti-Müllerian hormone (AMH),in,MS
+32740781,Anti-Müllerian hormone (AMH),in,NMOSD patients
+32740781,NMOSD predominance,in,MS
+32740781,NMOSD predominance,in,NMOSD patients
+32740781,mean AMH serum levels,in,NMOSD group (r = - 0.402 p = 0.03 and r = - 0.457 p = 0.014 respectively)
+32740781,AMH levels,in,MS
+32740781,AMH levels,in,NMOSD patients
+32740781,MS (RRMS),patients,23 seronegative NMOSD patients
+32740781,AMH levels,were measured with,AMH Gen II Enzyme-Linked Immunosorbent Assay Beckman Coulter kit
+32740781,AMH,in,RRMS group
+32740781,The mean AMH levels,in,NMOSD group
+32740781,mean serum AMH levels,between,RRMS
+32740781,mean serum AMH levels,between,NMOSD patients
+29984162,a) NMOSD,with,prior ON (NMOSD-ON) b) CIS
+29984162,prior ON (NMOSD-ON) b) CIS,with,c) CIS
+36192175,MS discriminate RRMS,from,AQP4-NMOSD
+36192175,MS discriminate RRMS,from,MOGAD
+36192175,RRMS,from,AQP4-NMOSD
+36192175,RRMS,over,MOGAD
+36192175,RRMS,from,APQ4-NMOSD
+36192175,RRMS,from,MOGAD
+33227631,NMOSD-ON,in,NMOSD and RRMS eyes
+33227631,NMOSD,in,NMOSD and RRMS eyes
+33227631,RRMS,in,NMOSD and RRMS eyes
+33227631,NMOSD groups,in,NMOSD and RRMS eyes
+33227631,MS,without,history of ON
+33227631,NMOSD-ON,compared to,NMOSD
+33227631,NMOSD,without,history of ON
+33227631,NMOSD,compared to,MS patients
+33227631,NMOSD,unlike,MS patients
+28550707,neuromyelitis optica spectrum disorders (NMOSD),from relapsing-remitting multiple sclerosis,(RRMS)
+28550707,NMOSD,in,contrast both miR-101-5p
+28550707,NMOSD,in,miR-126-5p
+28550707,NMOSD patients,with,intracranial lesions (NMOSD-IC)
+35316545,RRMS,with,anti-aquaporin-4 antibody-positive NMOSD (2 males and 16 females; mean age 52.67 ± 16.07 years)
+35316545,RRMS,showed reduced NDI,MVF
+35316545,GM pathologies,in,RRMS
+33905981,patients (13 MOGAD 24 RRMS and 14 AQP4-Ab NMOSD),demonstrated that,RRMS
+33905981,MOGAD,were,large abnormalities (both predictive for MOGAD)
+33905981,AQP4-Ab NMOSD,were,large abnormalities (both predictive for MOGAD)
+33905981,large abnormalities (both predictive for MOGAD),to,lateral ventricle and cerebellum involvement (all predictive for MOGAD)
+33905981,T1 hypointensity (all predictive for RRMS),as,large lesions (for MOGAD)
+33905981,RRMS,versus,MOGAD
+33905981,MOGAD,versus,AQP4-Ab NMOSD models
+33905981,RRMS,versus,AQP4-Ab NMOSD models
+33905981,distinction of MOGAD,from,RRMS
+33905981,distinction of MOGAD,from,AQP4-Ab NMOSD
+36215904,AD,in,MCI
+35841242,16 articles (including 372 AD patients treated with rTMS and 310 treated with sham rTMS),in,AD
+35841242,11 articles (including 152 AD patients treated with tDCS and 134 treated with sham tDCS),in,AD
+35841242,16 articles (including 372 AD patients treated with rTMS and 310 treated with sham rTMS),for,11 articles (including 152 AD patients treated with tDCS and 134 treated with sham tDCS)
+31842821,MCI we,in,MCI
+31842821,MCI,to,AD dementia
+26572145,prognosis of Alzheimer's disease (AD),as,i.e. mild cognitive impairment (MCI)
+31841947,AD,versus,normal controls (NC) MCI
+31841947,normal controls (NC) MCI,versus,NC and MCI converters (MCI-C)
+31841947,NC and MCI converters (MCI-C),versus,MCI non-converters (MCI-NC)
+36215796,ARHL,in,ARHL show promising results
+34685743,IL-6 and white blood cells,are associated with,ARHL
+33775891,PI3K/Akt/GSK3β MAPK,in,pathogenesis of NDDs
+33775891,AMPK pathway,in,pathogenesis of NDDs
+33775891,Wnt,in,pathogenesis of NDDs
+33775891,PI3K/Akt/GSK3β MAPK,cascade,AMPK pathway
+33775891,PI3K/Akt/GSK3β MAPK,cascade,Wnt
+34539328,Both age-related hearing loss (ARHL),in,vestibular function (ARVL)
+27667674,serum aldosterone levels,treated,middle age mice
+27667674,severity of ARHL we,treated,middle age mice
+27667674,middle age mice,with,aldosterone
+33450070,CBA/CaJ mice of either sex,under,normal hearing
+33450070,CBA/CaJ mice of either sex,under,age-related hearing loss (ARHL)
+36215788,devising of TCM,presented,potential perspective of computer-aided TCM development
+36215788,COVID-19,diabetes,(AD)
+21253603,TCM Database@Taiwan (,is,world's largest non-commercial TCM database
+34247564,specific TCM syndromes,will be issued with,development of AI-assisted TCM therapies
+36215698,Exogenous erythropoietin normalizes,in,AD-model mice
+36215698,Exogenous erythropoietin normalizes,in,systemic Aβ clearance and alleviates disease progression
+36215698,Erythropoietin,increases,Aβ
+36215698,Exogenous erythropoietin normalizes,impaired,EPO signaling and dysregulated functions of peripheral macrophages
+36215698,EPO signaling and dysregulated functions of peripheral macrophages,in,AD-model mice
+36215698,EPO signaling and dysregulated functions of peripheral macrophages,in,systemic Aβ clearance and alleviates disease progression
+33737172,Impaired amyloid-β (Aβ) clearance,in,Aβ clearance
+33737172,Alzheimer's disease (AD),in,Aβ clearance
+33737172,Smad3,signaling,regulated macrophage phagocytosis of Aβ
+33737172,blocking Smad3 signaling,increased,Aβ clearance
+33737172,APP/PS1 transgenic AD model mice,attenuated,Aβ deposition
+33737172,APP/PS1 transgenic AD model mice,attenuated,neuroinflammation
+33737172,Smad3,attenuated,Aβ deposition
+33737172,Smad3,attenuated,neuroinflammation
+26363791,Amyloid-beta (Aβ),in,pathogenesis of Alzheimer's disease (AD)
+26363791,brain-derived Aβ,in,Aβ clearance
+26363791,AD,in,Aβ clearance
+26363791,blood Aβ levels,on,AD pathogenesis
+26363791,Aβ,in,expression of amyloid precursor protein Aβ
+26363791,Aβ deposition,in,expression of amyloid precursor protein Aβ
+26363791,brain Aβ burden,in,expression of amyloid precursor protein Aβ
+26363791,peripheral Aβ clearance,in,Aβ clearance
+26363791,brain-derived Aβ,for,AD
+26363791,mice,used,effect of peripheral Aβ catabolism
+26363791,effect of peripheral Aβ catabolism,on,AD pathogenesis
+26363791,expression of amyloid precursor protein Aβ,generating,degrading enzymes Aβ transport receptors
+26363791,loss,in,brains of parabiotic AD mice
+26363791,brain Aβ,preventing,AD pathogenesis
+23813967,EPO (125 µg/kg),in,AD
+23813967,Neuro-EPO,in,AD
+23813967,EPO (250 µg/kg),in,Bax level TNFα
+23813967,EPO (250 µg/kg),in,Akt activation
+23813967,EPO (125 µg/kg),in,Bax level TNFα
+23813967,EPO (125 µg/kg),in,Akt activation
+23813967,Bax level TNFα,in,Akt activation
+23813967,two EPO formulations,in,rodent model of Alzheimer's disease (AD)
+23813967,two EPO formulations,in,rHu-EPO
+23813967,two EPO formulations,in,low sialic form Neuro-EPO
+23813967,EPO (125 µg/kg),was tested at,Neuro-EPO
+33828237,β (Aβ) accumulation,in,pathogenesis of Alzheimer's disease (AD)
+33828237,β (Aβ) accumulation,in,sporadic AD
+33828237,pathogenesis of Alzheimer's disease (AD),in,sporadic AD
+33828237,approximately half of Aβ,in,pathogenesis of Alzheimer's disease (AD)
+33828237,approximately half of Aβ,in,sporadic AD
+33828237,Aβ,on,AD pathologies
+33828237,Aβ,in,APP/PS1 mice
+33828237,Furthermore therapeutic effects of diuretic furosemide,on,AD pathologies
+33828237,Furthermore therapeutic effects of diuretic furosemide,in,APP/PS1 mice
+33828237,Aβ clearance,on,AD pathologies
+33828237,Aβ clearance,in,APP/PS1 mice
+33828237,brain Aβ deposition,in,APP/PS1 mice
+33828237,Tau hyperphosphorylation glial activation neuroinflammation,in,APP/PS1 mice
+33828237,blood and brain Aβ levels,in,APP/PS1 mice
+33828237,Furthermore therapeutic effects of diuretic furosemide,on,Aβ clearance
+33828237,brain Aβ deposition,aggravated,AD pathologies
+33828237,AD pathologies,including,Tau hyperphosphorylation glial activation neuroinflammation
+33828237,addition chronic furosemide treatment,reduced,blood and brain Aβ levels
+33828237,blood and brain Aβ levels,attenuated,AD pathologies
+33828237,AD pathologies,in,APP/PS1 mice
+32381118,Amyloid-beta (Aβ),in,pathogenesis of AD
+32381118,Amyloid-beta (Aβ),in,clearance of Aβ
+32381118,peripheral Aβ clearance,for,treatment of AD
+25553822,Male Sprague-Dawley rats (200-250 g),in,effects of Epo
+33185814,miR-146a,in,TLR tolerance
+33185814,Aβ deposit-bearing 12-month-old model mice of Alzheimer's disease (AD),compared with,non-AD mice
+33185814,Aβ deposit-bearing 12-month-old model mice of Alzheimer's disease (AD),compared with,Aβ deposit-free 2-month-old AD mice
+33185814,potential roles of miR-146a,in inducing,TLR tolerance
+33185814,expression of AD risk genes,in,12-month-old AD mice
+30252487,Erythropoietin,in,rodent models of Alzheimer's disease (AD)
+30252487,(EPO) glycoprotein cytokine,in,rodent models of Alzheimer's disease (AD)
+30252487,BBB-penetrable analog of EPO,in,double transgenic mouse model of AD
+30252487,APP/PS1 mice,in,APP/PS1 mouse model of AD
+30252487,multiple targets of AD pathogenesis,in,APP/PS1 mouse model of AD
+30252487,transferrin receptor (cTfRMAb),acts as,Erythropoietin (EPO)
+30252487,BBB-penetrable analog of EPO,on,AD pathology
+30252487,AD pathology,in,double transgenic mouse model of AD
+32973044,sEH,in,brains of both male and female familial Alzheimer's disease (5×FAD) model mice
+32973044,The inhibition of sEH,in,brains of 6-month-old male 5×FAD mice
+32973044,TPPU,in,brains of 6-month-old male 5×FAD mice
+32973044,EET,in,pathophysiology of AD
+32973044,EET,in,pathophysiology of AD and therapeutic strategies
+32973044,sEH inhibition,in,familial Alzheimer's disease (5×FAD) mice
+32973044,β (Aβ),contributes to,pathophysiology of AD
+32973044,soluble epoxide hydrolase,for,epoxyeicosatrienoic acid (EET)
+32973044,sEH,with,1-trifluoromethoxyphenyl- 3-(1-propionylpiperidin-4-yl) urea (TPPU)
+32973044,sEH,with,genetic deletion of reduces Aβ deposition
+32973044,1-trifluoromethoxyphenyl- 3-(1-propionylpiperidin-4-yl) urea (TPPU),in,brains of both male and female familial Alzheimer's disease (5×FAD) model mice
+32973044,genetic deletion of reduces Aβ deposition,in,brains of both male and female familial Alzheimer's disease (5×FAD) model mice
+32973044,The inhibition of sEH,with,TPPU
+32973044,TPPU,astrocyte,Aβ clearance
+32973044,hippocampus of 5×FAD mice,prevented,aggregation of Aβ
+32973044,Aβ deposition,in,brains of 6-month-old male 5×FAD mice
+32973044,late-onset AD,to,pathophysiology of AD
+32973044,sEH,increasing,1415-epoxyeicosatrienoic acid (EET)
+32973044,1415-epoxyeicosatrienoic acid (EET),enhanced,amyloid-β (Aβ) clearance
+32973044,aggregation of Aβ,reversed,deposition of Aβ
+36215429,Alzheimer's disease (AD) progression-associated genes,from,amnestic mild cognitive impairment (aMCI)
+36215390,group of LYsosome-Enhancing Compounds (LYECs),in,dopamine transporters (DAT)
+36215390,member of LYECs,in,dopamine transporters (DAT)
+36215390,cognitive function of APP-PSEN1 mice,in,dopamine transporters (DAT)
+36215390,group of LYsosome-Enhancing Compounds (LYECs),promote,activation of TFEB (transcription factor EB)
+36215390,activation of TFEB (transcription factor EB),via inhibiting,dopamine transporters (DAT)
+36130073,9 (CDK9),in,TFEB
+36130073,One of compounds LH2-051,inhibited,function of dopamine transporter (DAT)
+25031402,elevated extracellular Aβ levels,in,AD
+25031402,(AD) impaired Aβ removal,in,AD
+25031402,Aβ localizes,in,AD
+25031402,Aβ42,in,hippocampus of APP/PS1 transgenic mice
+25031402,TFEB,in,hippocampus of APP/PS1 transgenic mice
+25031402,activation of TFEB,in,AD
+25031402,(AD) impaired Aβ removal,to,elevated extracellular Aβ levels
+25031402,(TFEB) master regulator of lysosome biogenesis,would promote,Aβ
+25031402,hippocampus of APP/PS1 transgenic mice,compared with,control virus-injected mice
+25031402,adequate Aβ removal,in,AD
+27209302,(TFEB) essential regulator,in,brain slices of APP/PS1 transgenic mice
+27209302,(TFEB) essential regulator,in,AD
+27209302,microglial expression of TFEB,in,TFEB
+27209302,Aβ (fAβ) degradation,in,TFEB
+27209302,SIRT1 overexpression,in,TFEB
+27209302,lysosomal function and fAβ degradation,in,TFEB
+27209302,overexpression of deacetylated TFEB,in,brain slices of APP/PS1 transgenic mice
+27209302,overexpression of deacetylated TFEB,in,AD
+27209302,K116R mutant,in,brain slices of APP/PS1 transgenic mice
+27209302,K116R mutant,in,AD
+27209302,intracellular fAβ degradation,in,brain slices of APP/PS1 transgenic mice
+27209302,intracellular fAβ degradation,in,AD
+27209302,deacetylation of TFEB,in,brain slices of APP/PS1 transgenic mice
+27209302,deacetylation of TFEB,in,AD
+27209302,fAβ degradation,in,AD
+27209302,amyloid plaque pathogenesis,in,Alzheimer's disease (AD)
+27209302,microglial expression of TFEB,facilitates,Aβ (fAβ) degradation
+27209302,Aβ (fAβ) degradation,deposited,amyloid plaques
+27209302,TFEB,at,lysine residue 116
+27209302,SIRT1 overexpression,enhanced,lysosomal function and fAβ degradation
+27209302,lysosomal function and fAβ degradation,by upregulating,transcriptional levels of TFEB downstream targets
+27209302,transcriptional levels of TFEB downstream targets,could be inhibited,TFEB
+27209302,overexpression of deacetylated TFEB,at,K116R mutant
+27209302,deposited amyloid plaques,in,brain slices of APP/PS1 transgenic mice
+27209302,deacetylation of TFEB,could regulate,fAβ degradation
+27209302,fAβ degradation,making,microglial activation of TFEB possible strategy
+27209302,microglial activation of TFEB possible strategy,for attenuating amyloid plaque deposition in,AD
+35253615,novel TFEB activator,in,brain of P301S MAPT/tau
+35253615,novel TFEB activator,in,3XTg mice two commonly used AD animal models
+35253615,A compromised autophagy-lysosomal pathway (ALP),has been implicated in,AD progression
+35253615,A compromised autophagy-lysosomal pathway (ALP),has been implicated in,TFEB-mediated ALP
+35253615,celastrol,represents,novel anti-AD and other tauopathies drug candidate
+34272505,AD treatment,in,AD patients
+34272505,Aβ accumulation,in,APP/PSEN1 transgenic mice
+34272505,cognitive dysfunction of AD,in,APP/PSEN1 transgenic mice
+34272505,clearance of Aβ,in,aggregation of Aβ
+34272505,AD mice,accompanied by,clearance of Aβ
+34272505,nuclear TFEB,with,AMPK-mediated acetyl-CoA synthetase 2
+29967008,Transcription factor EB (TFEB),in,mouse model of Alzheimer's disease
+29967008,TFEB,in,mouse model of Alzheimer's disease
+29967008,PPARα,in,mouse model of Alzheimer's disease
+29967008,peroxisome proliferator-activated receptor alpha (PPARα),in,mouse model of Alzheimer's disease
+29967008,aspirin,induced,activation of peroxisome proliferator-activated receptor alpha (PPARα)
+29967008,PPARα,suggests that,low-dose aspirin
+29967008,mouse model of Alzheimer's disease,via,PPARα
+36060596,AD and HC groups,in,AD
+36060596,AD and HC groups,in,AD group (r=-0.510 P=0.005)
+36060596,Widespread cortical iron,in,AD
+36060596,Alzheimer's disease (AD) cerebral iron accumulation colocalizes,with,pathological proteins amyloid-β (Aβ)
+36060596,significant atrophy magnetic susceptibility,was compared between,AD and HC groups
+36060596,Increased iron content was,associated with,brain atrophy
+28424610,pattern of iron accumulation,in,subcortical vascular mild cognitive impairment (svMCI)
+28424610,brain iron deposition,in,svMCI subjects
+30128274,Putative iron content,in,PD pathogenesis
+30128274,PD patients,in,PDD patients
+30128274,limbic structures of PDD and PD patients,in,PD pathogenesis
+30128274,L-Dopa equivalent dosage,for,two PD groups (p = 0.125)
+30128274,iron accumulation,in,limbic structures of PDD and PD patients
+PubMed,36216518,is related to,35777803
+PubMed,36216518,is related to,24634832
+PubMed,36216518,is related to,33436035
+PubMed,36216518,is related to,35061102
+PubMed,36216518,is related to,31834392
+PubMed,36216518,is related to,24132375
+PubMed,36216518,is related to,30611311
+PubMed,36216518,is related to,35925685
+PubMed,36216518,is related to,30419087
+PubMed,36216455,is related to,26590657
+PubMed,36216455,is related to,32740781
+PubMed,36216455,is related to,29984162
+PubMed,36216455,is related to,26521232
+PubMed,36216455,is related to,36192175
+PubMed,36216455,is related to,33227631
+PubMed,36216455,is related to,28550707
+PubMed,36216455,is related to,35316545
+PubMed,36216455,is related to,33905981
+PubMed,36215904,is related to,34700007
+PubMed,36215904,is related to,35841242
+PubMed,36215904,is related to,33115936
+PubMed,36215904,is related to,34432674
+PubMed,36215904,is related to,26402010
+PubMed,36215904,is related to,34568342
+PubMed,36215904,is related to,34764859
+PubMed,36215904,is related to,31842821
+PubMed,36215904,is related to,33546266
+PubMed,36215848,is related to,31021792
+PubMed,36215848,is related to,31927474
+PubMed,36215848,is related to,30788463
+PubMed,36215848,is related to,26572145
+PubMed,36215848,is related to,34713109
+PubMed,36215848,is related to,35777803
+PubMed,36215848,is related to,29572601
+PubMed,36215848,is related to,31923610
+PubMed,36215848,is related to,31841947
+PubMed,36215796,is related to,35777803
+PubMed,36215796,is related to,34685743
+PubMed,36215796,is related to,27147466
+PubMed,36215796,is related to,29017893
+PubMed,36215796,is related to,33775891
+PubMed,36215796,is related to,34539328
+PubMed,36215796,is related to,27667674
+PubMed,36215796,is related to,28474569
+PubMed,36215796,is related to,33450070
+PubMed,36215788,is related to,35777803
+PubMed,36215788,is related to,36116517
+PubMed,36215788,is related to,35076690
+PubMed,36215788,is related to,21253603
+PubMed,36215788,is related to,34875986
+PubMed,36215788,is related to,34247564
+PubMed,36215788,is related to,25666163
+PubMed,36215788,is related to,33844136
+PubMed,36215788,is related to,35841663
+PubMed,36215698,is related to,33737172
+PubMed,36215698,is related to,26363791
+PubMed,36215698,is related to,23813967
+PubMed,36215698,is related to,33828237
+PubMed,36215698,is related to,32381118
+PubMed,36215698,is related to,25553822
+PubMed,36215698,is related to,33185814
+PubMed,36215698,is related to,30252487
+PubMed,36215698,is related to,32973044
+PubMed,36215429,is related to,35777803
+PubMed,36215429,is related to,34905304
+PubMed,36215429,is related to,21386892
+PubMed,36215429,is related to,16632515
+PubMed,36215429,is related to,31035919
+PubMed,36215429,is related to,32605541
+PubMed,36215429,is related to,32271844
+PubMed,36215429,is related to,31438848
+PubMed,36215429,is related to,27272489
+PubMed,36215390,is related to,36130073
+PubMed,36215390,is related to,26338325
+PubMed,36215390,is related to,25031402
+PubMed,36215390,is related to,35777803
+PubMed,36215390,is related to,35847498
+PubMed,36215390,is related to,27209302
+PubMed,36215390,is related to,35253615
+PubMed,36215390,is related to,34272505
+PubMed,36215390,is related to,29967008
+PubMed,36215153,is related to,35777803
+PubMed,36215153,is related to,33035667
+PubMed,36215153,is related to,36060596
+PubMed,36215153,is related to,33231528
+PubMed,36215153,is related to,33062715
+PubMed,36215153,is related to,28424610
+PubMed,36215153,is related to,34476177
+PubMed,36215153,is related to,30128274
+PubMed,36215153,is related to,29722955
